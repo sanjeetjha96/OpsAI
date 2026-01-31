@@ -1,0 +1,11 @@
+# Minimal dependencies for development
+openai>=0.27.0
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
+websockets>=11.0.0
+pyyaml>=6.0
+# Optional / helpful
+pillow>=10.0.0
+pytesseract>=0.3.10
+# Agent Dev Kit (placeholder - install the ADK you plan to use)
+google-adk

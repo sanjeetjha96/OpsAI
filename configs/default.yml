@@ -1,0 +1,6 @@
+chunk_size: 1000
+chunk_overlap: 200
+retrieval_top_k: 8
+guardrail_confidence_threshold: 0.65
+index_path: data/index.json
+memory_db: memory/memory.db

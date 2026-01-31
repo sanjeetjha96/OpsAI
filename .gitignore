@@ -1,0 +1,23 @@
+# Local env and runtime artifacts
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenv
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
+
+# Data & DB artifacts
+memory/memory.db
+data/index.json
+
+# Logs
+*.log
